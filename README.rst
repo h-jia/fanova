@@ -7,3 +7,7 @@ Documentation
 -------------
 
 An 'ever growing' documentation for the Python bindings can be found at https://automl.github.io/fanova/
+
+
+
+# fANOVA determines the extent to which each hyperparameter contributes to a network’s performance.
